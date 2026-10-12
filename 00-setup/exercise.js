@@ -11,7 +11,7 @@
 export function getStudent() {
   return {
     // TODO: replace with your full name, as it appears on your student card.
-    name: "YuannaBoules",
+   name: "Yuanna Boules",
 
     // TODO: replace with your student ID. Keep the quotes — it stays a string.
     studentId: "16001627",
